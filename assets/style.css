@@ -4,7 +4,7 @@
     margin: 0px;
     background-color: slategray;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: center;
+    
 }
 
 
@@ -36,5 +36,6 @@ ul {
 .header ul {
     text-align: center;
     position: absolute;
+    padding-left: 300px;
     display: inline-flex;
 }
