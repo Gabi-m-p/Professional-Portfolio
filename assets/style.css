@@ -41,9 +41,9 @@ ul {
 h2 {
     text-align: center;
     color: white;
-    font-size: smaller;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    font-size: large;
+    padding-bottom: 30px;
+    
 }
 
 img {
@@ -55,6 +55,7 @@ img {
     margin: auto;
     border-width: 15px;
     border-color: white;
+    padding-bottom: 70px;
 }
 
 p {
@@ -70,5 +71,11 @@ p {
 
 #Jacket {
     max-height: 350px;
+    padding-bottom: 70px;
+}
+
+.contact {
+    font-weight: bold;
+    padding-top: 10px;
     padding-bottom: 70px;
 }
