@@ -78,8 +78,13 @@ p {
     padding-top: 10px;
     padding-bottom: 70px;
     max-height: 250px;
+
 }
 
+
+footer {
+    padding-bottom: 30px;
+}
 @media screen and (min-width: 480px) {
     nav, body, p {
         flex-direction: column;
