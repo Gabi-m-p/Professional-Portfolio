@@ -64,7 +64,6 @@ p {
     padding-left: 300px;
     padding-right: 300px;
     padding-bottom: 30px;
-    justify-items: center;
     text-align: center;
 }
 
@@ -78,4 +77,11 @@ p {
     font-weight: bold;
     padding-top: 10px;
     padding-bottom: 70px;
+}
+
+@media screen and (max-width:768px) {
+    nav, body, p {
+        flex-direction: column;
+    }
+    
 }
