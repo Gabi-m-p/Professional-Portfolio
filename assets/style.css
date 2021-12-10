@@ -43,6 +43,7 @@ h2 {
     color: white;
     font-size: smaller;
     padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 img {
@@ -50,6 +51,24 @@ img {
     align-items: center;
     justify-items: center;
     background-position: center;
-    border: white;
+    max-height: 400px;
+    margin: auto;
     border-width: 15px;
+    border-color: white;
+}
+
+p {
+    display: block;
+    align-items: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 30px;
+    justify-items: center;
+    text-align: center;
+}
+
+
+#Jacket {
+    max-height: 350px;
+    padding-bottom: 70px;
 }
