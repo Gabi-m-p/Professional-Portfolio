@@ -32,6 +32,7 @@ ul {
     display: block;
     gap: 5rem;
     padding-top: 20px;
+    font-weight: bolder;
  
 }
 
@@ -39,3 +40,10 @@ ul {
     text-align: center;
     display: inline-flex;
 }
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size: smaller;
+}
+
